@@ -14,7 +14,6 @@ public class IT26102472Lab6Q1{
         System.out.print("\nThe square of " + number + " is : " + (number*number));
         System.out.println("\nThe square root of " + number + " is : " + (Math.sqrt(number)));
         
-        input.close();
     }
 
 }
